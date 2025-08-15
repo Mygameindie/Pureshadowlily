@@ -1,0 +1,62 @@
+[
+    {
+        "id": "bunnysuitbow3_1",
+        "src": "bunnysuitbow3_1.png",
+        "alt": "Bunnysuitbow3Item1",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_2",
+        "src": "bunnysuitbow3_2.png",
+        "alt": "Bunnysuitbow3Item2",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_3",
+        "src": "bunnysuitbow3_3.png",
+        "alt": "Bunnysuitbow3Item3",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_4",
+        "src": "bunnysuitbow3_4.png",
+        "alt": "Bunnysuitbow3Item4",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_5",
+        "src": "bunnysuitbow3_5.png",
+        "alt": "Bunnysuitbow3Item5",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_6",
+        "src": "bunnysuitbow3_6.png",
+        "alt": "Bunnysuitbow3Item6",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_7",
+        "src": "bunnysuitbow3_7.png",
+        "alt": "Bunnysuitbow3Item7",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_8",
+        "src": "bunnysuitbow3_8.png",
+        "alt": "Bunnysuitbow3Item8",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_9",
+        "src": "bunnysuitbow3_9.png",
+        "alt": "Bunnysuitbow3Item9",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow3_10",
+        "src": "bunnysuitbow3_10.png",
+        "alt": "Bunnysuitbow3Item10",
+        "visibility": "hidden"
+    }
+]

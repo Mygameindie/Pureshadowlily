@@ -1,0 +1,62 @@
+[
+    {
+        "id": "bow3_1",
+        "src": "bow3_1.png",
+        "alt": "bow2 Item 1",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_2",
+        "src": "bow3_2.png",
+        "alt": "bow2 Item 2",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_3",
+        "src": "bow3_3.png",
+        "alt": "bow2 Item 3",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_4",
+        "src": "bow3_4.png",
+        "alt": "bow2 Item 4",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_5",
+        "src": "bow3_5.png",
+        "alt": "bow2 Item 5",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_6",
+        "src": "bow3_6.png",
+        "alt": "bow2 Item 6",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_7",
+        "src": "bow3_7.png",
+        "alt": "bow2 Item 7",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_8",
+        "src": "bow3_8.png",
+        "alt": "bow2 Item 8",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_9",
+        "src": "bow3_9.png",
+        "alt": "bow2 Item 9",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bow3_10",
+        "src": "bow3_10.png",
+        "alt": "bow2 Item 10",
+        "visibility": "hidden"
+    }
+]

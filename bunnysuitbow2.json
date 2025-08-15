@@ -1,0 +1,62 @@
+[
+    {
+        "id": "bunnysuitbow2_1",
+        "src": "bunnysuitbow2_1.png",
+        "alt": "Pants2Item1",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_2",
+        "src": "bunnysuitbow2_2.png",
+        "alt": "Pants2Item2",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_3",
+        "src": "bunnysuitbow2_3.png",
+        "alt": "Pants2Item3",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_4",
+        "src": "bunnysuitbow2_4.png",
+        "alt": "Pants2Item4",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_5",
+        "src": "bunnysuitbow2_5.png",
+        "alt": "Pants2Item5",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_6",
+        "src": "bunnysuitbow2_6.png",
+        "alt": "Pants2Item6",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_7",
+        "src": "bunnysuitbow2_7.png",
+        "alt": "Pants2Item7",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_8",
+        "src": "bunnysuitbow2_8.png",
+        "alt": "Pants2Item8",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_9",
+        "src": "bunnysuitbow2_9.png",
+        "alt": "Pants2Item9",
+        "visibility": "hidden"
+    },
+    {
+        "id": "bunnysuitbow2_10",
+        "src": "bunnysuitbow2_10.png",
+        "alt": "Pants2Item10",
+        "visibility": "hidden"
+    }
+]
