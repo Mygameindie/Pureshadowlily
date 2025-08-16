@@ -24,11 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 'dress1', 'dress2', 'dress3',
 'jacket1', 'jacket2', 'jacket3', 'dress1w',
 'bunnysuitbow1', 'bunnysuitbow2', 'bunnysuitbow3',
-'dress2w',
-'dress3w',
-'skirt1w',
-'skirt2w',
-'skirt3w',
+
 'accessories1', 'accessories2', 'accessories3',
 'hat1', 'hat2', 'hat3',
 'mask1', 'mask2', 'mask3',
